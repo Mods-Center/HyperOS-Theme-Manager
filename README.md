@@ -1,6 +1,6 @@
 # HyperOS-Theme-Manager
 ![MIUIXD](https://github.com/Mods-Center/HyperOS-Theme-Manager/assets/83476983/76fd1f36-820d-4e58-8abe-c90c32c4e0ab)
-HyoerOS Theme Manager modified by [Kashi](https://t.me/kakashi1v1).
+HyperOS Theme Manager modified by [Kashi](https://t.me/kakashi1v1).
 
 ### Download
 - Download from the [releases page](https://github.com/Mods-Center/HyperOS-Theme-Manager/releases)
