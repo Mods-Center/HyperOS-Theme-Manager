@@ -1,5 +1,6 @@
 # HyperOS-Theme-Manager
-<img width="2171" height="1220" alt="Picsart_26-04-16_09-23-29-693" src="https://github.com/user-attachments/assets/075fd5da-ddc8-457d-8424-fc3ab3044397" />
+<img width="2171" height="1220" alt="Picsart_26-04-16_09-25-27-948" src="https://github.com/user-attachments/assets/958a9e06-eafd-4cd7-a85e-857be20111db" />
+
 
 
 HyperOS Theme Manager V5.1 modified by [Kashi](https://t.me/kakashi1v1).
