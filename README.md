@@ -1,7 +1,8 @@
 # HyperOS-Theme-Manager
-<img width="2171" height="1220" alt="Picsart_25-11-04_13-06-31-405" src="https://github.com/user-attachments/assets/d5e4e806-da10-4075-a95d-197e70c326aa" />
+<img width="2171" height="1220" alt="Picsart_26-04-16_09-23-29-693" src="https://github.com/user-attachments/assets/075fd5da-ddc8-457d-8424-fc3ab3044397" />
 
-HyperOS Theme Manager V5 modified by [Kashi](https://t.me/kakashi1v1).
+
+HyperOS Theme Manager V5.1 modified by [Kashi](https://t.me/kakashi1v1).
 
 ### Download
 - Download from the [releases page](https://github.com/Mods-Center/HyperOS-Theme-Manager/releases)
