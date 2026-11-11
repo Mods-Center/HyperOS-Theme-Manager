@@ -13,7 +13,7 @@
 
 </div>
 
-## ✨ Features
+## Features
 - Choose from multiple theme servers
 - Premium themes
 - AI wallpapers
@@ -21,20 +21,20 @@
 - Super icons and super widgets
 - High-end features unlocked on low-end devices
 
-## 📋 Requirements
+## Requirements
 - HyperOS
 - Magisk, KernelSU or APatch
 - [HyperOS App Vault Mod](https://github.com/Mods-Center/HyperOS-App-Vault), needed for premium widgets
 
-## 📥 Installation
+## Installation
 1. Download the latest zip from [**Releases**](https://github.com/Mods-Center/HyperOS-Theme-Manager/releases/latest).
 2. Flash it in Magisk, KernelSU or APatch.
 3. Reboot your device.
 
-## ⚠️ Notes
+## Notes
 - Stock ROMs: flash [Apk Protection Patch](https://github.com/Mods-Center/Apk-Protection-Patch) first.
 
-## 📸 Screenshots
+## Screenshots
 <p align="center">
   <img src="https://github.com/user-attachments/assets/8e05555b-5aee-43ef-a586-6fe97921b887" width="23%" alt="Theme Manager"/>
   <img src="https://github.com/user-attachments/assets/c39968ec-0b1c-42aa-90b0-f739e09d17d6" width="23%" alt="Theme Manager"/>
@@ -51,8 +51,8 @@
 
 <div align="center">
 
-Made by **[Kashi](https://t.me/kakashi1v1)** · part of **[Mods Center](https://github.com/Mods-Center)**
+Made by **[🅺🅰🆂🅷🅸](https://t.me/kakashi1v1)** · part of **[Mods Center](https://github.com/Mods-Center)**
 
-[📢 Channel](https://t.me/kashis_cringey_stuffs) · [💬 Support group](https://t.me/bootloop_discussion) · [🐞 Report a bug](https://github.com/Mods-Center/HyperOS-Theme-Manager/issues)
+[Channel](https://t.me/kashis_cringey_stuffs) · [Support group](https://t.me/bootloop_discussion) · [Report a bug](https://github.com/Mods-Center/HyperOS-Theme-Manager/issues)
 
 </div>
